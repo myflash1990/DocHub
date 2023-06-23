@@ -1,0 +1,13 @@
+{
+  "name": "dochub",
+  "version": "1.0.0",
+  "description": "Doctor's dashboard for patient info and appointment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
